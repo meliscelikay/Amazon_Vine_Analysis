@@ -10,21 +10,21 @@
 
 ### Filtered total_votes above or equal to 20
 
-![Filtered_Dataframe.png]()
+![Filtered_Dataframe.png](https://github.com/meliscelikay/Amazon_Vine_Analysis/blob/6c41957f5bf79056ecdcd4306c3287bcc34a506d/Images/Filtered_DataFrame.png)
 
 ### Filtered helpful_votes ratio above or equal to 50%
 
-![Total_reviews]()
+![Total_reviews](https://github.com/meliscelikay/Amazon_Vine_Analysis/blob/6c41957f5bf79056ecdcd4306c3287bcc34a506d/Images/Total_Reviews.png)
 
 ### Vine reviews and non-Vine reviews
 
-![Vine_reviews]()
+![Vine_reviews](https://github.com/meliscelikay/Amazon_Vine_Analysis/blob/6c41957f5bf79056ecdcd4306c3287bcc34a506d/Images/Vine_reviews.png)
 
-![non-Vine_reviews]()
+![non-Vine_reviews](https://github.com/meliscelikay/Amazon_Vine_Analysis/blob/6c41957f5bf79056ecdcd4306c3287bcc34a506d/Images/non-Vine_reviews.png)
 
 ### 5 stars Vine and non-Vine reviews / Percentage of 5 stars Vine and non-Vine reviews
 
-![fivestar_percentage]()
+![fivestar_percentage](https://github.com/meliscelikay/Amazon_Vine_Analysis/blob/6c41957f5bf79056ecdcd4306c3287bcc34a506d/Images/fivestar_percentage.png)
 
 ## Summary
 In conclusion, I found out that 34% of 5 star reviews originated from Vine users, compared to 48% of 5 star reviews originated from non-Vine users. Results do not show bias towards Amazon Vine reviewers in the dataset. I believe we should also analyze 1 Star to 4 Stars review data in order to determine if there is any meaningful impact of View reviewers.
